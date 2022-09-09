@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Ahsan! 
+
+I'm a Software Engineer who loves to take raw ideas and build great products with JavaScript, HTML, and CSS. I genuinely enjoy coding and writing simple code that creates delightful user experiences. I value collaboration and embrace that building modern software is a team effort. I have a keen eye for great design, love to advocate for users, and empathize with their needs. I love learning new things and am always ready to dig into whatever is needed to move the implementation forward. If I don't already know it, I'm ready to learn it. 
+
+I hope you enjoy looking through my GitHub, which reflects my love for building fully developed client-side JavaScript applications using React.
 
 <!--
 **ahsanatzapier/ahsanatzapier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
